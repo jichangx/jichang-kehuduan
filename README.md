@@ -1,6 +1,6 @@
 # 全网最全的机场客户端收集 / 下载 / 图文教程 / 客户端科普与快讯(每日同步)
 
-![更新](https://img.shields.io/badge/更新-2026--09--21-00e676) ![客户端](https://img.shields.io/badge/收录客户端-68%20款-00b0ff) ![教程](https://img.shields.io/badge/图文教程-30%20篇-fbbf24) [![来源](https://img.shields.io/badge/内容来源-机场探-f87171)](https://jichangtan.com/clients/) [![Telegram](https://img.shields.io/badge/Telegram-%40jichangcha-26A5E4?logo=telegram&logoColor=white)](https://t.me/jichangcha)
+![更新](https://img.shields.io/badge/更新-2026--09--22-00e676) ![客户端](https://img.shields.io/badge/收录客户端-68%20款-00b0ff) ![教程](https://img.shields.io/badge/图文教程-30%20篇-fbbf24) [![来源](https://img.shields.io/badge/内容来源-机场探-f87171)](https://jichangtan.com/clients/) [![Telegram](https://img.shields.io/badge/Telegram-%40jichangcha-26A5E4?logo=telegram&logoColor=white)](https://t.me/jichangcha)
 
 这里按平台整理 [机场探客户端库](https://jichangtan.com/clients/) 的公开目录,方便在 GitHub 上检索,下载与教程页面都在机场探原站:先按电脑、手机 / 平板、路由器、掌机等设备类型,再按 Windows、macOS、Linux、Android、iOS、OpenWrt、Merlin、HarmonyOS NEXT、Steam OS 等平台查找机场客户端。下载指向官方来源,附原创安装教程与维护状态;客户端版本快讯来自机场探科普与快讯栏目。目录每天自动同步。
 
